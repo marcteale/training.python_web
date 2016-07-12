@@ -145,8 +145,6 @@ Session 4 - APIs and Mashups
 * `xmlrpc spec (short) <http://www.xmlrpc.com/spec>`_
 * `the SOAP specification <http://www.w3.org/TR/soap/>`_
 * `json overview and spec (short) <http://www.json.org/>`_
-* `How I Explained REST to My Wife (Tomayko 2004)
-  <http://tomayko.com/writings/rest-to-my-wife>`_
 * `A Brief Introduction to REST (Tilkov 2007)
   <http://www.infoq.com/articles/rest-introduction>`_
 * `Wikipedia on REST
